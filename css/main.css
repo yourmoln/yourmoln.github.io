@@ -1,3 +1,7 @@
+body{
+    background-color: black;
+}
+
 .myhead{
   margin-bottom: 24px;
   border-radius: 50%;
@@ -8,4 +12,10 @@
 .myname{
   font-size: 32px;
   font-weight: bold;
+}
+
+.me{
+  background-color: #161b22;
+  color: gray;
+  user-select: none;
 }
